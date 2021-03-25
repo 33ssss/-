@@ -1,0 +1,35 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/info/info",
+          "pathName": "pages/info/info",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "uploader",
+          "pathName": "miniprogram_npm\\weui-miniprogram\\uploader",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/uploader/uploader",
+          "pathName": "pages/uploader/uploader",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

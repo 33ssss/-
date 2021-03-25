@@ -1,0 +1,11 @@
+.h1{
+  display: flex;
+  flex-flow: row;
+}
+.h2{
+  width:200rpx;
+}
+.h3{
+  width:60%;
+  margin-left:110rpx;
+}
